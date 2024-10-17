@@ -1,10 +1,10 @@
 # 3) Crie funções que mostrem um cardápio de um restaurante (pelo menos 4 itens) e que permitam realizar pedidos e fechar a conta.
 # Cardápio do restaurante
 cardapio = {
-    "1": {"nome": "Espaguete à Carbonara", "preco": 25.00},
-    "2": {"nome": "Pizza Margherita", "preco": 30.00},
-    "3": {"nome": "Salada Caesar", "preco": 20.00},
-    "4": {"nome": "Hambúrguer Gourmet", "preco": 28.00}
+    "1": {"nome": "Açaí", "preco": 20.00},
+    "2": {"nome": "Foccacia", "preco": 10.00},
+    "3": {"nome": "Homus", "preco": 20.00},
+    "4": {"nome": "Salada de fradinho", "preco": 25.00}
 }
 
 # Função para exibir o cardápio
